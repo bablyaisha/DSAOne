@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 public class PascalsTriangle {
     public static void main(String[] args) {
          int n=10;

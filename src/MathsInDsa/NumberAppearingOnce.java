@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 public class NumberAppearingOnce {
     public static void main(String[] args) {
         int[] a={5, 5, 4, 8, 4, 5, 8, 9, 4, 8};

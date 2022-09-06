@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 public class Bit_ith {
     public static void main(String[] args) {
        int n=97;

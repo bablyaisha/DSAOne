@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 import java.util.Scanner;
 
 public class MagicNumber {

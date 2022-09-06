@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 public class XORofNumber {
     public static void main(String[] args) {
 //        int n=6;

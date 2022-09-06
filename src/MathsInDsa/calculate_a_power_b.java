@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 public class calculate_a_power_b {
     public static void main(String[] args) {
         int base=3,power=6;

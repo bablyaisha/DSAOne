@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce5b41d-f65c-4548-9581-f18d7f14c0b3" name="Changes" comment="MathDSA #2">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_832.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bit_ith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/Bit_ith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Digits_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/Digits_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/Duplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_832.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/LeetCode_832.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MagicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/MagicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberAppearingOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/NumberAppearingOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/PowerOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/TotalSetBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XORofNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/XORofNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculate_a_power_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathsInDsa/calculate_a_power_b.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,37 +55,43 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeetCode_832">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="LeetCode_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_832" />
+      <option name="MAIN_CLASS_NAME" value="MathsInDsa.LeetCode_832" />
       <module name="Maths" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PowerOfTwo" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathsInDsa.PrimeNumber" />
       <module name="Maths" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MathsInDsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TotalSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalSetBits" />
+      <option name="MAIN_CLASS_NAME" value="MathsInDsa.TotalSetBits" />
       <module name="Maths" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="XORofNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XORofNumber" />
+      <option name="MAIN_CLASS_NAME" value="MathsInDsa.XORofNumber" />
       <module name="Maths" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="calculate_a_power_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculate_a_power_b" />
+      <option name="MAIN_CLASS_NAME" value="MathsInDsa.calculate_a_power_b" />
       <module name="Maths" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.LeetCode_832" />
         <item itemvalue="Application.XORofNumber" />
         <item itemvalue="Application.TotalSetBits" />
         <item itemvalue="Application.calculate_a_power_b" />
-        <item itemvalue="Application.PowerOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662407942180</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="MathDSA #2">
+      <created>1662409370437</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662409370437</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

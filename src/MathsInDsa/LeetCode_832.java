@@ -1,3 +1,5 @@
+package MathsInDsa;
+
 public class LeetCode_832 {
     public static void main(String[] args) {
         int[][] img= {
